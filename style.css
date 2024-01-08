@@ -40,3 +40,50 @@ a {
     margin-left: 192px;
 }
 
+.container  {
+  display: flex;
+  background: #1F2937;
+  padding: 30px;
+  margin: 0;
+  padding-top: 100px;
+}
+
+.left-box {
+  padding-left: 175px;
+  padding-right: 200px;
+}
+
+.right-box  {
+  padding-right: 100px;
+}
+
+.hero-text  {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+}
+
+.subtext  {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+button {
+  cursor: pointer;
+  padding: 7px 30px;
+  border-radius: 8px;
+}
+
+button.sign-up {
+  background: #3882F6;
+  border: 1px solid #3882F6;
+  color: white;
+  margin-top: 12px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+img {
+  width: 340px;
+  height: 250px;
+}
